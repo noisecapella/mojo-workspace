@@ -1,0 +1,40 @@
+[submodule "mojo-myhdl"]
+	path = mojo-myhdl
+	url = https://github.com/gbin/mojo-myhdl
+	branch = master
+[submodule "mojo-v3-loader"]
+	path = mojo-v3-loader
+	url = https://github.com/tomahawkmissile/mojo-v3-loader
+	branch = master
+[submodule "osxMojo"]
+	path = osxMojo
+	url = https://github.com/alvarop/osxMojo
+	branch = master
+[submodule "mojo_hostmot2"]
+	path = mojo_hostmot2
+	url = https://github.com/sleepybishop/mojo_hostmot2
+	branch = master
+[submodule "ColourRunner"]
+	path = ColourRunner
+	url = https://github.com/JinBean/ColourRunner
+	branch = master
+[submodule "ceespu"]
+	path = ceespu
+	url = https://github.com/CeesWolfs/ceespu
+	branch = master
+[submodule "mojo-arduino"]
+	path = mojo-arduino
+	url = https://github.com/embmicro/mojo-arduino
+	branch = master
+[submodule "ntsc-mojo"]
+	path = ntsc-mojo
+	url = https://github.com/lujialiang/ntsc-mojo
+	branch = master
+[submodule "mojo-base-project"]
+	path = mojo-base-project
+	url = https://github.com/noisecapella/mojo-base-project
+	branch = mojo-led-tests
+[submodule "mojo-test"]
+	path = mojo-test
+	url = https://github.com/noisecapella/mojo-test
+	branch = master

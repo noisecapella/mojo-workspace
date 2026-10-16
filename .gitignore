@@ -1,0 +1,26 @@
+# --- Xilinx ISE 14.7 installer media (~10 GB) -------------------------------
+# Download from AMD/Xilinx; see mojo-led-test-NOTES.md for the batch-install
+# procedure (batch file, downloadlocation_dir gotcha, license placement).
+xilinx_ise/
+Xilinx_ISE_DS_14.7_1015_1-*.tar
+Xilinx_ISE_DS_14.7_1015_1-*.zip.xz
+
+# --- Personal license file: MUST NOT be committed ---------------------------
+# Node-locked license containing owner info.
+Xilinx.lic
+*.lic
+
+# --- Downloaded system packages (re-fetchable, see notes) -------------------
+libncurses5_6.4-4_amd64.deb
+libtinfo5_6.4-4_amd64.deb
+
+# --- Saved third-party reference text ----------------------------------------
+license-article-amd.txt
+
+# --- Scratch ------------------------------------------------------------------
+ise_staging/
+.log
+context_overflow_test.txt
+context_test_40k.txt
+
+
